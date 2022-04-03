@@ -49,3 +49,7 @@ My JavaFX implementation on a minesweeper game.
 
 # Demos
 
+
+https://user-images.githubusercontent.com/56271444/161407789-2f5fafe1-9ddf-45bb-a9db-6f4d05bfda9c.mp4
+
+
