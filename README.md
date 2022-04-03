@@ -35,6 +35,10 @@ https://user-images.githubusercontent.com/56271444/161408147-f9f625d1-65e2-4ea4-
   
     You lose when you reveal a mine.
     
+
+https://user-images.githubusercontent.com/56271444/161408516-2075d06f-9e4f-4ecf-9c53-be31da08d8b1.mp4
+    
+    
   __Controls:__
   
     Right clicking an un-revealed square cycles the following marks:
