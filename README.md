@@ -1,6 +1,10 @@
 # Minesweeper
 My JavaFX implementation on a minesweeper game.
 
+[Link to Source Code](https://github.com/PresidentSam100/Minesweeper/tree/main/MineSweeeper/src)
+
+[Link to Images](https://github.com/PresidentSam100/Minesweeper/tree/main/MineSweeeper/Images)
+
 ## Game Modes:
 
   __Easy:__
