@@ -53,15 +53,17 @@ https://user-images.githubusercontent.com/56271444/161408516-2075d06f-9e4f-4ecf-
       -Reveals the clicked square
     Pressing the left button down, then holding the right button down and releasing the left button.
       -Works on revealed numbers
-      -Reveals the nighboring locations
+      -Reveals the neighboring locations
       -Only functions when there are enough locations marked with flags to correspond to the numbers
 
+
+
+
+https://user-images.githubusercontent.com/56271444/161408877-64e8a057-611e-4570-89da-581c406f304c.mp4
+
+
 ## Symbols:
-    -1 to 8: number of mines near by
-    -Mine: unfound mine
-    -Mine with x: Incorrect Flag
-    -Red Mine: Exploded mine
-
-
-# Demos
-
+    1 to 8: number of mines near by
+    Mine: unfound mine
+    Mine with x: Incorrect Flag
+    Red Mine: Exploded mine
