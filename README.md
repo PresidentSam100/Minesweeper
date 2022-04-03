@@ -16,13 +16,21 @@ My JavaFX implementation on a minesweeper game.
     20 by 20 with 100 mines
   
   __Custom Game Mode (to be implemented)__
+
+
+https://user-images.githubusercontent.com/56271444/161407789-2f5fafe1-9ddf-45bb-a9db-6f4d05bfda9c.mp4
+
   
 ## Rules:
 
   __Winning:__
   
     You win when all the non-mine squares have been revealed.
-    
+   
+   
+https://user-images.githubusercontent.com/56271444/161408147-f9f625d1-65e2-4ea4-83bf-203bcab0df8d.mp4
+
+
   __Losing:__
   
     You lose when you reveal a mine.
@@ -48,8 +56,4 @@ My JavaFX implementation on a minesweeper game.
 
 
 # Demos
-
-
-https://user-images.githubusercontent.com/56271444/161407789-2f5fafe1-9ddf-45bb-a9db-6f4d05bfda9c.mp4
-
 
