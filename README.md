@@ -1,5 +1,5 @@
 # Minesweeper
-My JavaFX implementation on a minesweeper game.
+My JavaFX implementation on a minesweeper game in 1 day.
 
 [Link to Source Code](https://github.com/PresidentSam100/Minesweeper/tree/main/MineSweeeper/src)
 
